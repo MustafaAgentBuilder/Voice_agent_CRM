@@ -1,4 +1,13 @@
+# Research:
+Customer Relationship Management (CRM) software helps both us and our clients. With this software, we can store important data like customer details, dates, and timelines. It is useful for both the business and the customers.
 
+Key Points:
+
+1. It increases the profit and availability of our business.
+
+2. It improves customer retention rate (customers stay longer with us).
+
+3. It helps us to increase scalability, so we can handle many clients using the same method easily. 
 
 ## 🎯 Project Overview
 
